@@ -1,34 +1,50 @@
 # Arthur Cruiziat-Cauvin - Data Scientist | ML & AI Engineer
 
 ## 🌱 About Me
-Welcome to my GitHub profile! I am a seasoned Data Scientist and Machine Learning Engineer with extensive experience in developing innovative solutions and delivering actionable insights. M
-y work spans various industries, focusing on applying advanced data analysis, machine learning, and AI techniques to solve complex problems.
-
-## 🌱 About Me
-
-I am a skilled data scientist, machine learning (ML), and artificial intelligence (AI) engineer with expertise in a wide range of topics. My areas of focus include modelization (churn, fraud, upsell, and propensity models), experimentation (A/B testing and causal inference using geo-lift techniques), causal machine learning for propensity modeling, and AI engineering (various AI applications for discussion systems and search engines).
+Welcome to my GitHub profile! I am a seasoned Data Scientist and Machine Learning & AI Engineer with extensive experience in developing innovative solutions and delivering actionable insights. My work spans various industries, focusing on applying advanced data analysis, machine learning, and AI techniques to solve complex problems.
 
 ## 🧰 Languages and Tools
 - **Programming Languages**: Python, R, SQL
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning & Deep Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
 - **Natural Language Processing (NLP)**: NLTK, SpaCy, Transformers
-- **AI**: Langchain, Langgraph
+- **AI**: Langchain, LlamaIndex, Autogen, CrewAI, LangGraph
 - **Big Data Technologies**: Hadoop, Spark
-- **Databases**: MySQL, PostgreSQL, MongoDB
 - **Cloud Platforms**: AWS, Azure, GCP
-- **Version Control**: Git, GitHub
-- **Other Tools**: Docker, Kubernetes, Jenkins
+- **Version Control**: Git, GitHub, Gitlab
+- **Other Tools**: Docker
 
 ## Experience
 
 I have worked with several high-profile clients, delivering data-driven solutions that optimize operations and drive business growth. Key positions and projects include:
-<!--
-- **Data Scientist at [Company Name]** (May 2023 - Present)
-  - Developed machine learning models for predictive analytics, improving forecast accuracy by 20%.
-  - Implemented NLP solutions for text analysis and sentiment analysis.
-  - Collaborated with cross-functional teams to integrate AI models into production systems.
 
+### Data Scientist at Qonto
+- **AI & NLP Projects**:
+  - Developed private retrieval augmented generation applications using GPT-4 and open-source models for enhanced information retrieval.
+  - Implemented topic and sentiment analysis on employee engagement surveys to improve retention strategies.
+  - Created AI agents that autonomously search the web and various APIs to extract structured insights from unstructured data for competitive analysis.
+
+- **Model Development Projects**:
+  - Created ML models for acquisition forecasting, improving marketing budget allocation efficiency.
+  - Created ML models for churn probability estimations
+  - Created **Causal ML models** to assess the impact of retention treatment to user to enhance retention
+
+- **Research and Experimentation Projects**:
+  - I led a research project aimed at creating a market metric captures fluctuations in market demand. This metric allowed them to assess their performances, improve their budget allocation as well as spot unexpected market actions.
+  - Causal Experimentation of marketing channels
+
+
+### Data Scientist at Expedia Group** (May 2023 - Present)
+- **Model Development**:
+  - Designed ML models to evaluate the monetary impact of client actions, enhancing targeted pitches.
+
+- **Time Series Forecasting**:
+  - Forecasted market metrics using statistical and advanced ML models for optimal sales team allocation.
+
+- **Quantitative and Statistical Analysis**:
+  - Conducted analyses on market variations and sales team performance, providing actionable insights to senior management.
+
+<!--
 ## Projects
 
 ### [Project A: Predictive Analytics for Sales Forecasting](https://github.com/arthurcruiziat/project-a)
