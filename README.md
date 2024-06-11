@@ -30,18 +30,18 @@ I have worked with several high-profile clients, delivering data-driven solution
   - Implemented topic and sentiment analysis on employee engagement surveys to improve retention strategies.
   - Created AI agents that autonomously search the web and various APIs to extract structured insights from unstructured data for competitive analysis.
 
-- **Model Development Projects**:
+- **ML Model Development Projects**:
   - Created ML models for acquisition forecasting, improving marketing budget allocation efficiency.
-  - Created ML models for churn probability estimations
+  - Created ML models for churn probability estimations to enable targeted retention actions
   - Created **Causal ML models** to assess the impact of retention treatment to user to enhance retention
 
 - **Research and Experimentation Projects**:
-  - I led a research project aimed at creating a market metric captures fluctuations in market demand. This metric allowed them to assess their performances, improve their budget allocation as well as spot unexpected market actions.
-  - Causal Experimentation of marketing channels
+  - Causal Experimentation of marketing channels to improve marketing budget allocation
+  - Research on market volatility : creation of an index that captures fluctuations in market demand in order to assess Qonto's acquisition performances vs a neutral metric. 
 
 
-### Data Scientist at Expedia Group** (May 2023 - Present)
-- **Model Development**:
+### Data Scientist at Expedia Group
+- **ML Model Development**:
   - Designed ML models to evaluate the monetary impact of client actions, enhancing targeted pitches.
 
 - **Time Series Forecasting**:
