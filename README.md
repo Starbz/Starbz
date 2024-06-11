@@ -1,15 +1,21 @@
 # Arthur Cruiziat-Cauvin - Data Scientist | ML & AI Engineer
 
 ## 🌱 About Me
+
 Welcome to my GitHub profile! I am a seasoned Data Scientist and Machine Learning & AI Engineer with extensive experience in developing innovative solutions and delivering actionable insights. My work spans various industries, focusing on applying advanced data analysis, machine learning, and AI techniques to solve complex problems.
+
+## ✨ Passions and Interests
+- **Causal Inference**: Exploring causal relationships to drive better decision-making.
+- **Machine Learning & AI**: Passionate about developing and applying ML and AI models.
+- **AI Agents Collaboration**: Enthusiastic about creating AI agents that work together as a team to achieve complex tasks.
 
 ## 🧰 Languages and Tools
 - **Programming Languages**: Python, R, SQL
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning & Deep Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
+- **Causal Inferences**: CausalML, Geolift
 - **Natural Language Processing (NLP)**: NLTK, SpaCy, Transformers
 - **AI**: Langchain, LlamaIndex, Autogen, CrewAI, LangGraph
-- **Big Data Technologies**: Hadoop, Spark
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
 - **Cloud Platforms**: AWS, Azure, GCP
 - **Version Control**: Git, GitHub, Gitlab
 - **Other Tools**: Docker
