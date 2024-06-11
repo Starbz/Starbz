@@ -2,12 +2,12 @@
 
 ## 🌱 About Me
 
-Welcome to my GitHub profile! I am a seasoned Data Scientist and Machine Learning & AI Engineer with extensive experience in developing innovative solutions and delivering actionable insights. My work spans various industries, focusing on applying advanced data analysis, machine learning, and AI techniques to solve complex problems.
+Welcome to my GitHub profile! I am a seasoned Data Scientist and Machine Learning & AI Engineer with extensive experience in developing innovative solutions and delivering actionable insights. My expertise lies in applying advanced data analysis, machine learning, and AI techniques to tackle complex challenges and drive impactful results.
 
 ## ✨ Passions and Interests
-- **Causal Inference**: Exploring causal relationships to drive better decision-making.
-- **Machine Learning & AI**: Passionate about developing and applying ML and AI models.
-- **AI Agents Collaboration**: Enthusiastic about creating AI agents that work together as a team to achieve complex tasks.
+- **Causal Inference**: Delving into causal relationships to enable data-driven decision-making.
+- **Machine Learning & AI**: Dedicated to developing and deploying cutting-edge ML and AI models.
+- **AI Agents Collaboration**: Passionate about creating AI agents that collaborate to accomplish intricate tasks.
 
 ## 🧰 Languages and Tools
 - **Programming Languages**: Python, R, SQL
@@ -22,28 +22,28 @@ Welcome to my GitHub profile! I am a seasoned Data Scientist and Machine Learnin
 
 ## 🔭 Experience
 
-I have worked with several high-profile clients, delivering data-driven solutions that optimize operations and drive business growth. Key positions and projects include:
+I have collaborated with high-profile clients to deliver data-driven solutions that optimize operations and drive business growth. My key positions and projects include:
 
 ### AI Freelancing project
-This project focuses on delivering acquisition chatbots to corporations, powered by AI agents:
-- I designed a platform allowing users to craft their personalized chatbots using diverse data sources
-- I implemented a logic system to organize and structure the provided data, resulting in a structured Vector Database enriched with precise metadata for hybrid/self querying search capabilities.
-- Created chatbots that are used to inform the client but also to gather informed leads via custom actions
+Delivered acquisition chatbots to corporations, powered by AI agents:
+- Designed a platform for users to craft personalized chatbots using diverse data sources.
+- Implemented a logic system to organize and structure the provided data, resulting in a Vector Database enriched with precise metadata for hybrid/self-querying search capabilities.
+- Created chatbots that not only inform clients but also gather leads through custom actions.
 
 ### Data Scientist at Qonto
 - **AI & NLP Projects**:
-  - Developed private retrieval augmented generation applications using GPT-4 and open-source models for enhanced information retrieval.
+  - Developed private retrieval-augmented generation applications using GPT-4 and open-source models for enhanced information retrieval.
   - Implemented topic and sentiment analysis on employee engagement surveys to improve retention strategies.
   - Created AI agents that autonomously search the web and various APIs to extract structured insights from unstructured data for competitive analysis.
 
 - **ML Model Development Projects**:
-  - Created ML models for acquisition forecasting, improving marketing budget allocation efficiency.
-  - Created ML models for churn probability estimations to enable targeted retention actions
+  - Developed ML models for acquisition forecasting, improving marketing budget allocation efficiency.
+  - Built ML models for churn probability estimation, enabling targeted retention actions.
   - Created **Causal ML models** to assess the impact of retention treatment to user to enhance retention
 
 - **Research and Experimentation Projects**:
-  - Causal Experimentation of marketing channels to improve marketing budget allocation
-  - Research on market volatility : creation of an index that captures fluctuations in market demand in order to assess Qonto's acquisition performances vs a neutral metric. 
+  - Conducted causal experimentation on marketing channels to optimize budget allocation.
+  - Researched market volatility, creating an index to capture fluctuations in market demand and assess Qonto's acquisition performance against a neutral metric.
 
 ### Data Scientist at Expedia Group
 - **ML Model Development**:
@@ -53,7 +53,7 @@ This project focuses on delivering acquisition chatbots to corporations, powered
   - Forecasted market metrics using statistical and advanced ML models for optimal sales team allocation.
 
 - **Quantitative and Statistical Analysis**:
-  - Conducted analyses on market variations and sales team performance, providing actionable insights to senior management.
+  - Analyzed market variations and sales team performance, providing actionable insights to senior management.
 
 <!--
 ## Projects
