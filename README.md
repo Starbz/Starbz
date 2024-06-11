@@ -5,7 +5,8 @@
 
 I am a skilled data scientist, machine learning (ML), and artificial intelligence (AI) engineer with expertise in a wide range of topics. My areas of focus include modelization (churn, fraud, upsell, and propensity models), experimentation (A/B testing and causal inference using geo-lift techniques), causal machine learning for propensity modeling, and AI engineering (various AI applications for discussion systems and search engines).
 
-**Key Skills:** Python, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, SQL, Causal Inference, Experimentation, Modelization, AI Engineering
+## 🧰 Languages and Tools
+Python, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, SQL, Causal Inference, Experimentation, Modelization, AI Engineering
 <!--
 ## 🔭 Featured Projects
 
