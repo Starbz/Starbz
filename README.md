@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a seasoned Data Scientist and Machine Learnin
 I have worked with several high-profile clients, delivering data-driven solutions that optimize operations and drive business growth. Key positions and projects include:
 
 ### AI Freelancing project
-Driven by my enthusiasm for Generative AI, I initiated Picabot as a side project. This venture focuses on delivering acquisition chatbots to corporations, powered by AI agents:
+This project focuses on delivering acquisition chatbots to corporations, powered by AI agents:
 - I designed a platform allowing users to craft their personalized chatbots using diverse data sources
 - I implemented a logic system to organize and structure the provided data, resulting in a structured Vector Database enriched with precise metadata for hybrid/self querying search capabilities.
 - Created chatbots that are used to inform the client but also to gather informed leads via custom actions
