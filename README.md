@@ -30,7 +30,7 @@ I am a skilled data scientist, machine learning (ML), and artificial intelligenc
 
 ## 📫 Contact Information
 
-- LinkedIn: [[your_linkedin_profile_link](https://www.linkedin.com/in/arthur-cruiziat-cauvin-07361883/)]
+- [[LinkedIn](https://www.linkedin.com/in/arthur-cruiziat-cauvin-07361883/)]
 
 <!--
 **Starbz/Starbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
