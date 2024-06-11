@@ -20,9 +20,15 @@ Welcome to my GitHub profile! I am a seasoned Data Scientist and Machine Learnin
 - **Version Control**: Git, GitHub, Gitlab
 - **Other Tools**: Docker
 
-## Experience
+## 🔭 Experience
 
 I have worked with several high-profile clients, delivering data-driven solutions that optimize operations and drive business growth. Key positions and projects include:
+
+### AI Freelancing project
+Driven by my enthusiasm for Generative AI, I initiated Picabot as a side project. This venture focuses on delivering acquisition chatbots to corporations, powered by AI agents:
+- I designed a platform allowing users to craft their personalized chatbots using diverse data sources
+- I implemented a logic system to organize and structure the provided data, resulting in a structured Vector Database enriched with precise metadata for hybrid/self querying search capabilities.
+- Created chatbots that are used to inform the client but also to gather informed leads via custom actions
 
 ### Data Scientist at Qonto
 - **AI & NLP Projects**:
@@ -38,7 +44,6 @@ I have worked with several high-profile clients, delivering data-driven solution
 - **Research and Experimentation Projects**:
   - Causal Experimentation of marketing channels to improve marketing budget allocation
   - Research on market volatility : creation of an index that captures fluctuations in market demand in order to assess Qonto's acquisition performances vs a neutral metric. 
-
 
 ### Data Scientist at Expedia Group
 - **ML Model Development**:
